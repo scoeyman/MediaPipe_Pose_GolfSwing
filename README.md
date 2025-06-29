@@ -14,7 +14,7 @@ Features
 How to Run
 ------------
 1. Place your input video path in `config.py`
-2. Run the main script: python main.py
+2. Run the main script: main.py
 3. Keyboard Controls:
 - q = Quit and save
 - s = Save current frame’s landmarks
