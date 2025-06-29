@@ -9,9 +9,6 @@ Features
 - Custom landmarks (e.g., golf club head support)
 - Drag & drop interface for precise control
 - Smoothed landmark interpolation in playback
-- Output to:
-  - original video with overlays
-  - black background with trails
 
 
 How to Run
